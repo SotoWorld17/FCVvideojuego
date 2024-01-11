@@ -1,2 +1,0 @@
-# FCV
-Videojuego de FCV
